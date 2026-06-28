@@ -56,13 +56,5 @@ graph TD
 Para levantar la solución en un entorno limpio y controlado:
 
 ```bash
-# Activar entorno virtual
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# Correr programa
-python main.py
+# Atraves del archivo .EXE o Ahorcado en la carpeta dist
 ```
-
----
-
-## 🏃‍♂️ Instrucciones de Ejecución para el Des
