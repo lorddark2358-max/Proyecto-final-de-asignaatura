@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build files (excluding dist where the .exe resides)
+build/
+*.spec
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

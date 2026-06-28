@@ -1,0 +1,73 @@
+{
+  "TECNOLOGIA": [
+    "TECNOLOGIA",
+    "INFORMATICA",
+    "VARIABLE",
+    "AUTOMATIZACION",
+    "PROGRAMACION",
+    "ALGORITMO",
+    "BASEDATOS",
+    "SOFTWARE",
+    "INTERNET",
+    "COMPILADOR",
+    "VIRTUAL",
+    "INGENIERIA",
+    "INTELIGENCIAARTIFICIAL",
+    "RAM",
+    "PROCESADOR",
+    "PYTHON"
+  ],
+  "CIENCIA": [
+    "GRAVEDAD",
+    "QUIMICA",
+    "BIOLOGIA",
+    "ATOMO",
+    "EVOLUCION",
+    "MATEMATICAS",
+    "FISICA",
+    "ASTRONOMIA",
+    "GALAXIA",
+    "NEURONA"
+  ],
+  "GEOGRAFIA": [
+    "PATAGONIA",
+    "CORDILLERA",
+    "OCEANO",
+    "ECUADOR",
+    "VOLCAN",
+    "CONTINENTE",
+    "PENINSULA",
+    "DESIERTO",
+    "ATLANTICO",
+    "AMAZONAS",
+    "PANGEA",
+    "MONTAÑA"
+  ],
+  "ARTE": [
+    "PINTURA",
+    "ESCULTURA",
+    "LITERATURA",
+    "MUSICA",
+    "TEATRO",
+    "CINE",
+    "ARQUITECTURA",
+    "POESIA",
+    "SINFONIA",
+    "OPERA"
+  ],
+  "DEPORTES": [
+    "BALONCESTO",
+    "ATLETISMO",
+    "NATACION",
+    "CICLISMO",
+    "TENIS",
+    "MARATON",
+    "GIMNASIA",
+    "FUTBOL",
+    "SENDERISMO",
+    "AJEDREZ",
+    "MESSI",
+    "TRIONDA",
+    "MUNDIAL"
+  ]
+}
